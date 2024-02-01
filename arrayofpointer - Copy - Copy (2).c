@@ -1,3 +1,4 @@
+// Program of array of pointer 
 #include <stdio.h>
 
 const int MAX = 5;
