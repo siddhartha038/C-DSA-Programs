@@ -1,3 +1,4 @@
+// Program to array elementry
 #include <stdio.h>
 
 int findSum(int A[], int N)
