@@ -1,3 +1,4 @@
+// Write a program to delete from Beginning
 #include <stdio.h>
 #include <stdlib.h>
 void create(int);
