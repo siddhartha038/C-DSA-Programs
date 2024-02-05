@@ -1,4 +1,4 @@
-// C program for insertion sort
+// C program for insertion sort.
 #include <math.h>
 #include <stdio.h>
 
