@@ -1,4 +1,4 @@
-// C program for implementation of Bubble sort.
+// C program for implementation of Bubble sort
 #include <stdio.h>
 
 void swap(int *xp, int *yp)
