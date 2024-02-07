@@ -1,4 +1,4 @@
-//Program
+//Program to add 
 #include <stdio.h>
 int main()
 {
