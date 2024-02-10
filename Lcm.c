@@ -1,5 +1,6 @@
 // Program to find lowest common factor.
 
+
 #include <stdio.h>
 
 int main()
